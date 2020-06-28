@@ -1,0 +1,31 @@
+procedencia,tipo_vehiculo,n_personas,n_vehiculos
+Uruguay,Barco,314,1
+Estados Unidos,Avión,882,14
+Colombia,Avión,184,5
+México,Avión,440,8
+Perú,Avión,253,8
+Brasil,Avión,565,10
+Chile,Avión,360,8
+Resto del país,Ómnibus,44,4
+Brasil,Ómnibus,357,43
+Perú,Ómnibus,6,1
+Chile,Ómnibus,62,8
+Bolivia,Ómnibus,126,10
+Uruguay,Ómnibus,14,1
+Francia,Avión,216,2
+Inglaterra,Avión,99,2
+España,Avión,779,12
+Italia,Avión,140,3
+República Dominicana,Avión,101,3
+Uruguay,Avión,63,1
+Ecuador,Avión,283,11
+Panamá,Avión,390,13
+Cuba,Avión,92,2
+Emiratos Árabes,Avión,213,2
+Etiopía,Avión,121,2
+Costa Rica,Avión,51,1
+Australia,Avión,74,2
+Alemania,Avión,220,4
+Qatar,Avión,256,3
+Turquía,Avión,136,3
+Suiza,Avión,95,2
